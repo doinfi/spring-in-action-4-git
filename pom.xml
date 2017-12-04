@@ -10,7 +10,16 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>ch01/knight</module>
+        <module>01-knight</module>
+        <module>02-stereo-javaconfig</module>
+        <module>02-stereo-mixedconfig</module>
+        <module>02-stereo-xmlconfig</module>
+        <module>02-stereo-autoconfig</module>
+        <module>03-conditional</module>
+        <module>03-externals</module>
+        <module>03-profiles</module>
+        <module>03-scopedbeans</module>
+
     </modules>
 
     <dependencyManagement>
@@ -73,7 +82,12 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.github.stefanbirkner</groupId>
+            <artifactId>system-rules</artifactId>
+            <version>1.17.0</version>
         </dependency>
 
         <dependency>

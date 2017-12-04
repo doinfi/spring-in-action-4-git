@@ -6,12 +6,39 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="01-knight" />
+        <module name="02-stereo-autoconfig" />
+        <module name="02-stereo-javaconfig" />
+        <module name="02-stereo-mixedconfig" />
+        <module name="02-stereo-xmlconfig" />
+        <module name="03-conditional" />
+        <module name="03-externals" />
+        <module name="03-profiles" />
+        <module name="03-scopedbeans" />
         <module name="ch01-knight" />
+        <module name="ch02-stereo-autoconfig" />
+        <module name="ch02-stereo-javaconfig" />
+        <module name="ch02-stereo-mixedconfig" />
+        <module name="ch02-stereo-xmlconfig" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="01-knight" target="1.8" />
+      <module name="02-stereo-autoconfig" target="1.8" />
+      <module name="02-stereo-javaconfig" target="1.8" />
+      <module name="02-stereo-mixedconfig" target="1.8" />
+      <module name="02-stereo-xmlconfig" target="1.8" />
+      <module name="03-conditional" target="1.8" />
+      <module name="03-externals" target="1.8" />
+      <module name="03-profiles" target="1.8" />
+      <module name="03-scopebeans" target="1.8" />
+      <module name="03-scopedbeans" target="1.8" />
       <module name="ch01" target="1.8" />
       <module name="ch01-knight" target="1.8" />
+      <module name="ch02-stereo-autoconfig" target="1.8" />
+      <module name="ch02-stereo-javaconfig" target="1.8" />
+      <module name="ch02-stereo-mixedconfig" target="1.8" />
+      <module name="ch02-stereo-xmlconfig" target="1.8" />
       <module name="Chapter_01" target="1.8" />
       <module name="spring-in-action-4-git" target="1.8" />
     </bytecodeTargetLevel>

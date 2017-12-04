@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-knight/01-knight.iml" filepath="$PROJECT_DIR$/01-knight/01-knight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-stereo-autoconfig/02-stereo-autoconfig.iml" filepath="$PROJECT_DIR$/02-stereo-autoconfig/02-stereo-autoconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-stereo-javaconfig/02-stereo-javaconfig.iml" filepath="$PROJECT_DIR$/02-stereo-javaconfig/02-stereo-javaconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-stereo-mixedconfig/02-stereo-mixedconfig.iml" filepath="$PROJECT_DIR$/02-stereo-mixedconfig/02-stereo-mixedconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-stereo-xmlconfig/02-stereo-xmlconfig.iml" filepath="$PROJECT_DIR$/02-stereo-xmlconfig/02-stereo-xmlconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-conditional/03-conditional.iml" filepath="$PROJECT_DIR$/03-conditional/03-conditional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-externals/03-externals.iml" filepath="$PROJECT_DIR$/03-externals/03-externals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-profiles/03-profiles.iml" filepath="$PROJECT_DIR$/03-profiles/03-profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-scopedbeans/03-scopedbeans.iml" filepath="$PROJECT_DIR$/03-scopedbeans/03-scopedbeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_01/Chapter_01.iml" filepath="$PROJECT_DIR$/Chapter_01/Chapter_01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ch01/knight/ch01-knight.iml" filepath="$PROJECT_DIR$/ch01/knight/ch01-knight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch01/ch01-knight/ch01-knight.iml" filepath="$PROJECT_DIR$/ch01/ch01-knight/ch01-knight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02-stereo-autoconfig/ch02-stereo-autoconfig.iml" filepath="$PROJECT_DIR$/ch02/ch02-stereo-autoconfig/ch02-stereo-autoconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02-stereo-javaconfig/ch02-stereo-javaconfig.iml" filepath="$PROJECT_DIR$/ch02/ch02-stereo-javaconfig/ch02-stereo-javaconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02-stereo-mixedconfig/ch02-stereo-mixedconfig.iml" filepath="$PROJECT_DIR$/ch02/ch02-stereo-mixedconfig/ch02-stereo-mixedconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02-stereo-xmlconfig/ch02-stereo-xmlconfig.iml" filepath="$PROJECT_DIR$/ch02/ch02-stereo-xmlconfig/ch02-stereo-xmlconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-in-action-4-git.iml" filepath="$PROJECT_DIR$/spring-in-action-4-git.iml" />
     </modules>
   </component>
