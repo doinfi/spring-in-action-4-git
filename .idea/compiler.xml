@@ -15,6 +15,33 @@
         <module name="03-externals" />
         <module name="03-profiles" />
         <module name="03-scopedbeans" />
+        <module name="05-spittr" />
+        <module name="06-jsp" />
+        <module name="06-thymeleaf" />
+        <module name="06-tiles" />
+        <module name="07-spittr" />
+        <module name="08-spring-pizza" />
+        <module name="09-thymeleaf" />
+        <module name="10-jdbc" />
+        <module name="11-hibernate4" />
+        <module name="11-jpa-hibernate" />
+        <module name="11-jpa-spring-data" />
+        <module name="12-mongo" />
+        <module name="12-neo4j" />
+        <module name="12-redis" />
+        <module name="13-caching" />
+        <module name="14-methodsecurity" />
+        <module name="16-spitter-api-content-negotiation" />
+        <module name="16-spitter-api-message-converters" />
+        <module name="17-amqp" />
+        <module name="17-jms" />
+        <module name="18-stomp" />
+        <module name="18-stomp-user" />
+        <module name="18-web-socket" />
+        <module name="19-mail" />
+        <module name="21-contacts" />
+        <module name="21-contacts-cli" />
+        <module name="21-rest-hi" />
         <module name="ch01-knight" />
         <module name="ch02-stereo-autoconfig" />
         <module name="ch02-stereo-javaconfig" />
@@ -33,6 +60,35 @@
       <module name="03-profiles" target="1.8" />
       <module name="03-scopebeans" target="1.8" />
       <module name="03-scopedbeans" target="1.8" />
+      <module name="05-spittr" target="1.8" />
+      <module name="05-spittr (1)" target="1.8" />
+      <module name="05-spittr (2)" target="1.8" />
+      <module name="06-jsp" target="1.8" />
+      <module name="06-thymeleaf" target="1.8" />
+      <module name="06-tiles" target="1.8" />
+      <module name="07-spittr" target="1.8" />
+      <module name="08-spring-pizza" target="1.8" />
+      <module name="09-thymeleaf" target="1.8" />
+      <module name="10-jdbc" target="1.8" />
+      <module name="11-hibernate4" target="1.8" />
+      <module name="11-jpa-hibernate" target="1.8" />
+      <module name="11-jpa-spring-data" target="1.8" />
+      <module name="12-mongo" target="1.8" />
+      <module name="12-neo4j" target="1.8" />
+      <module name="12-redis" target="1.8" />
+      <module name="13-caching" target="1.8" />
+      <module name="14-methodsecurity" target="1.8" />
+      <module name="16-spitter-api-content-negotiation" target="1.8" />
+      <module name="16-spitter-api-message-converters" target="1.8" />
+      <module name="17-amqp" target="1.8" />
+      <module name="17-jms" target="1.8" />
+      <module name="18-stomp" target="1.8" />
+      <module name="18-stomp-user" target="1.8" />
+      <module name="18-web-socket" target="1.8" />
+      <module name="19-mail" target="1.8" />
+      <module name="21-contacts" target="1.8" />
+      <module name="21-contacts-cli" target="1.8" />
+      <module name="21-rest-hi" target="1.8" />
       <module name="ch01" target="1.8" />
       <module name="ch01-knight" target="1.8" />
       <module name="ch02-stereo-autoconfig" target="1.8" />

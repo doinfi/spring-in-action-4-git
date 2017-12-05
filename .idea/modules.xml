@@ -11,12 +11,33 @@
       <module fileurl="file://$PROJECT_DIR$/03-externals/03-externals.iml" filepath="$PROJECT_DIR$/03-externals/03-externals.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-profiles/03-profiles.iml" filepath="$PROJECT_DIR$/03-profiles/03-profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-scopedbeans/03-scopedbeans.iml" filepath="$PROJECT_DIR$/03-scopedbeans/03-scopedbeans.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter_01/Chapter_01.iml" filepath="$PROJECT_DIR$/Chapter_01/Chapter_01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ch01/ch01-knight/ch01-knight.iml" filepath="$PROJECT_DIR$/ch01/ch01-knight/ch01-knight.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ch02/ch02-stereo-autoconfig/ch02-stereo-autoconfig.iml" filepath="$PROJECT_DIR$/ch02/ch02-stereo-autoconfig/ch02-stereo-autoconfig.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ch02/ch02-stereo-javaconfig/ch02-stereo-javaconfig.iml" filepath="$PROJECT_DIR$/ch02/ch02-stereo-javaconfig/ch02-stereo-javaconfig.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ch02/ch02-stereo-mixedconfig/ch02-stereo-mixedconfig.iml" filepath="$PROJECT_DIR$/ch02/ch02-stereo-mixedconfig/ch02-stereo-mixedconfig.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ch02/ch02-stereo-xmlconfig/ch02-stereo-xmlconfig.iml" filepath="$PROJECT_DIR$/ch02/ch02-stereo-xmlconfig/ch02-stereo-xmlconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-spittr/05-spittr.iml" filepath="$PROJECT_DIR$/05-spittr/05-spittr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-jsp/06-jsp.iml" filepath="$PROJECT_DIR$/06-jsp/06-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-thymeleaf/06-thymeleaf.iml" filepath="$PROJECT_DIR$/06-thymeleaf/06-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-tiles/06-tiles.iml" filepath="$PROJECT_DIR$/06-tiles/06-tiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-spittr/07-spittr.iml" filepath="$PROJECT_DIR$/07-spittr/07-spittr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-spring-pizza/08-spring-pizza.iml" filepath="$PROJECT_DIR$/08-spring-pizza/08-spring-pizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-thymeleaf/09-thymeleaf.iml" filepath="$PROJECT_DIR$/09-thymeleaf/09-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-jdbc/10-jdbc.iml" filepath="$PROJECT_DIR$/10-jdbc/10-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-hibernate4/11-hibernate4.iml" filepath="$PROJECT_DIR$/11-hibernate4/11-hibernate4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-jpa-hibernate/11-jpa-hibernate.iml" filepath="$PROJECT_DIR$/11-jpa-hibernate/11-jpa-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-jpa-spring-data/11-jpa-spring-data.iml" filepath="$PROJECT_DIR$/11-jpa-spring-data/11-jpa-spring-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-mongo/12-mongo.iml" filepath="$PROJECT_DIR$/12-mongo/12-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-neo4j/12-neo4j.iml" filepath="$PROJECT_DIR$/12-neo4j/12-neo4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-redis/12-redis.iml" filepath="$PROJECT_DIR$/12-redis/12-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-caching/13-caching.iml" filepath="$PROJECT_DIR$/13-caching/13-caching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-methodsecurity/14-methodsecurity.iml" filepath="$PROJECT_DIR$/14-methodsecurity/14-methodsecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-spitter-api-content-negotiation/16-spitter-api-content-negotiation.iml" filepath="$PROJECT_DIR$/16-spitter-api-content-negotiation/16-spitter-api-content-negotiation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-spitter-api-message-converters/16-spitter-api-message-converters.iml" filepath="$PROJECT_DIR$/16-spitter-api-message-converters/16-spitter-api-message-converters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-amqp/17-amqp.iml" filepath="$PROJECT_DIR$/17-amqp/17-amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-jms/17-jms.iml" filepath="$PROJECT_DIR$/17-jms/17-jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-stomp/18-stomp.iml" filepath="$PROJECT_DIR$/18-stomp/18-stomp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-stomp-user/18-stomp-user.iml" filepath="$PROJECT_DIR$/18-stomp-user/18-stomp-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-web-socket/18-web-socket.iml" filepath="$PROJECT_DIR$/18-web-socket/18-web-socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-mail/19-mail.iml" filepath="$PROJECT_DIR$/19-mail/19-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-contacts/21-contacts.iml" filepath="$PROJECT_DIR$/21-contacts/21-contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-contacts-cli/21-contacts-cli.iml" filepath="$PROJECT_DIR$/21-contacts-cli/21-contacts-cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-rest-hi/21-rest-hi.iml" filepath="$PROJECT_DIR$/21-rest-hi/21-rest-hi.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-in-action-4-git.iml" filepath="$PROJECT_DIR$/spring-in-action-4-git.iml" />
     </modules>
   </component>
